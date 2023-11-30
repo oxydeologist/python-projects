@@ -9,3 +9,5 @@ Simple nCr calculator I made so I don't have to spend time calculating results f
 
 ## Kerang ajaib Venta
 Venta told me to make a calculator where every question is answered with "3".... just.. 3
+
+![img](https://cdn.discordapp.com/attachments/706472245316288585/1179613910018560020/17013122706780708.png?ex=657a6c10&is=6567f710&hm=4ef1ae7a20e84aeeda1dc8054cbfdd02dceaa03af9caec5dbb66d658dc81fb60&)
