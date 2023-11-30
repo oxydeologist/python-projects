@@ -1,3 +1,4 @@
+#nCr Calculator by oxydeologist
 import math
 n = int(input("Please type in n: "))
 r = int(input("Please type in r: "))
