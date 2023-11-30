@@ -8,3 +8,5 @@ n_minus_r = n - r
 nr_factorial = math.factorial(n_minus_r)
 nCr = n_factorial / (r_factorial * nr_factorial)
 print(nCr)
+
+# I JUST REALISED YOU CAN DO math.comb*n,r) AHAHAHAHHA
